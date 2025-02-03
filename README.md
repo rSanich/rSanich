@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rSanich
 - 👀 I'm interested in gaming, powerlifting
 - 🌱 I'm currently studying Python, C++
-- 📫 How to contact me: Discord: kazakhfem
+- 📫 Discord: kazakhfem
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two cats that fight all the time
 
