@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rSanich
 - 👀 I'm interested in gaming, powerlifting
-- 🌱 I'm currently studying Python, C++
+- 🌱 I'm currently studying: Cybersec
 - 📫 Discord: kazakhfem
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two cats that fight all the time
